@@ -1,0 +1,55 @@
+= Wiki Pages for MaryTTS
+:jbake-type: page
+:jbake-status: published
+:jbake-cached: true
+
+== General
+
+image:https://travis-ci.org/marytts/marytts.svg?branch=master[Build Status,link=https://travis-ci.org/marytts/marytts]
+
+Welcome to the MARY TTS wiki on github.
+
+Transition from http://mary.opendfki.de[the old TRAC page] to this place is in progress; for the moment, you may want to look in both places for the information you care about.
+
+These wiki pages may still contain old information but we're working on that eventually.
+
+In the meantime if you would like to edit a page or add one feel free to use our *Edit on GitHub* button.
+
+== Release Notes
+
+Please refer to the main http://mary.dfki.de/download/[MaryTTS Downloads] page and the https://github.com/marytts/marytts/releases[Releases on GitHub]
+
+== Using MARY TTS from Java source code
+
+* link:./MaryInterface.html[MaryInterface], a unified API for accessing local and remote TTS introduced in MARY TTS 5
+
+== New languages and voices for MARY TTS
+
+* link:./New-Language-Support.html[New Language Support]
+* link:./VoiceImportToolsTutorial.html[VoiceImportToolsTutorial]
+* link:./UnitSelectionVoiceCreation.html[UnitSelectionVoiceCreation]
+* link:./HMMVoiceCreation.html[HMMVoiceCreation]
+* link:./Publishing-a-MARY-TTS-Voice.html[Publishing a MARY TTS Voice]
+
+== User documentation
+
+* http://mary.opendfki.de/wiki/ProsodySpecificationSupport[Support for explicit prosody specifications]
+
+== Bug reports
+
+If you think you have identified a bug, we would like to hear about it. For a meaningful bug report, proceed as follows:
+
+. 
+
+Check in the https://github.com/marytts/marytts/issues?state=open[new list of issues on github] as well as the http://mary.opendfki.de/query?group=status&milestone=4.0[old list of known bugs on TRAC] whether the bug has been reported already;
+
+. 
+
+If you cannot find it, create a new issue on github containing the following information:
+
+* operating system and java version used;
+* what to do to reproduce the error;
+* expected behaviour;
+* detailed log files, i.e. an excerpt of MARY TTS/log/server.log containing the error episode.
+. Discuss the problem on the http://www.dfki.de/mailman/listinfo/mary-users[MARY user mailing list].
+You can search past messages on the Mary-users or the Mary-developers lists, please have a look to the Mailing List section in http://mary.opendfki.de[the old TRAC page]

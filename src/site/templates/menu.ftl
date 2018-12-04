@@ -22,6 +22,13 @@
                     </ul>
             </ul>
         </li>
+        <li class="has-sub"> <a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/wiki.html">Wiki Pages</a>
+            <ul>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/publish-mary-voice.html">Publishing a MaryTTS Voice</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/prosody-specification-support.html">Prosody Specification Support</a></li>
+
+            </ul>
+        </li>
         <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>faq.html">FAQ</a></li>
         <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>legal-information.html">Legal
             Information</a></li>
