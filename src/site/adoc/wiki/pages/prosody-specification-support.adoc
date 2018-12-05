@@ -1,4 +1,4 @@
-= Publishing a MaryTTS Voice
+= Prosody Specification Support
 :jbake-type: page
 :jbake-status: published
 :jbake-cached: true
