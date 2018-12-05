@@ -27,6 +27,8 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/publish-mary-voice.html">Publishing a MaryTTS Voice</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/prosody-specification-support.html">Prosody Specification Support</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/new-language-support.html">New Langauge Support</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/MaryInterface.html">MaryInterface</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/Local-MaryTTS-Server-Installation.html">Local MaryTTS Server Installation</a></li>
 
             </ul>
         </li>
