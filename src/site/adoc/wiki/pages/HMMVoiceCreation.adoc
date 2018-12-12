@@ -220,7 +220,7 @@ In order to run again particular steps, you just need to activate the correspond
 == +++<h2><a id="step5"></a> 5. Adding a new HMM-based voice in MARY</h2>+++
 
 14- Run the *HMMVoiceCompiler* to compile the voice to be used in MARY TTS. The default setting values of this component are already fixed.
-Once the voice is compiled, follow the instructions in link:_includes/Publishing-a-MARY-TTS-Voice.html[Publishing-a-MARY-TTS-Voice] to install the voice.
+Once the voice is compiled, follow the instructions in link:Publishing-a-MARY-TTS-Voice.html[Publishing-a-MARY-TTS-Voice] to install the voice.
 
 '''
 
@@ -228,7 +228,7 @@ Once the voice is compiled, follow the instructions in link:_includes/Publishing
 
 If you are creating a voice in other language you will need to specify:
 
-*Minimal NLP components*: if you are creating a new voice from scratch, for example following the steps in link:_includes/new-language-support.html[NewLanguageSupport], you will need to create Minimal NLP components for the new language. These minimal components are necessary to run the MARY server in the new language and extract context features (phonefeatures directory).
+*Minimal NLP components*: if you are creating a new voice from scratch, for example following the steps in link:new-language-support.html[NewLanguageSupport], you will need to create Minimal NLP components for the new language. These minimal components are necessary to run the MARY server in the new language and extract context features (phonefeatures directory).
 
 *Phoneme set*: contained in \$MARY_BASE/marytts-lang-xx/src/main/resources/marytts/language/xx/lexicon/allophones.xx.xml , where xx corresponds to the new language. 
 
