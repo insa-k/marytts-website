@@ -5,6 +5,8 @@
 
 = Install MaryTTS to a local server
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/Local-MaryTTS-Server-Installation.adoc[Edit page on GitHub!]
+
 This recipe documents how to install MaryTTS to a local server, e.g., for projects relying on a TTS service or enterprise-wide deployment.
 
 == Preliminaries

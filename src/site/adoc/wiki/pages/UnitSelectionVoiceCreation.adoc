@@ -5,6 +5,8 @@
 
 = Unit selection voice creation and explanation on Individual Voice Import Components
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/UnitSelectionVoiceCreation.adoc[Edit page on GitHub!]
+
 Unit-Selection Voicebuilding has some prerequisites:
 
 * all speech signals are in .wav format, 16kHz sampling frequency and 16-bit sample format.

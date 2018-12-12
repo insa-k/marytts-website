@@ -5,6 +5,8 @@
 
 = Support for explicit prosody specifications
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/prosody-specification-support.adoc[Edit page on GitHub!]
+
 MARY TTS support explicit prosody specification using `prosody` element as described in http://www.w3.org/TR/speech-synthesis11/#edef_prosody[W3C Speech Synthesis Markup Language (SSML) 1.1 recommendation]; and the different attributes in `prosody` element like `rate`, `pitch` and `contour` are used as specifications to modify predicted phone durations and pitch contour before passing them to synthesizer.
 
 *Note:* The following examples will only work if the `INPUT_TYPE` is set to `RAWMARYXML`. HSMM voices are able to realize the specified prosody out of the box; for unit selection voices, at least MARY 4.3.0 is needed, and the checkbox "Apply prosody modification" must be activated in the http://mary.dfki.de:59125[web interface].

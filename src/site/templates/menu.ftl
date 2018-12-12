@@ -31,7 +31,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/Local-MaryTTS-Server-Installation.html">Local MaryTTS Server Installation</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/UnitSelectionVoiceCreation.html">Unit Selection Voice Creation</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/VoiceImportToolsTutorial.html">VoiceImportTools Tutorial</a></li>
-
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/HMMVoiceCreation.html">HMM Voice Creation</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>wiki/pages/Ideas-for-future-work.html">Ideas for future work</a></li>
 
             </ul>

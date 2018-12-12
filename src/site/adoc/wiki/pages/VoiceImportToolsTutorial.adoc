@@ -5,6 +5,8 @@
 
 = How to build a new Voice with Voice Import Tools
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/VoiceImportToolsTutorial.adoc[Edit page on GitHub!]
+
 This Tutorial explains the procedure to build a new voice with Voice Import Tools (VIT) under the MARY Environment.
 Voice Import Tool is a Graphical User Interface (GUI), which contains a set of Voice Import Components and helps the user to build new voices under the MARY (Modular Architecture for Research in speech sYnthesis) Environment. This GUI tool aims to simplify the task of building new synthesis voices so that users who do not have detailed technical knowledge of speech synthesis can build their own voices.
 
@@ -13,7 +15,7 @@ In a nutshell, the Voice Import Tools cover the following steps in voice buildin
 1. Feature Extraction from Acoustic Data
 2. Feature Vector Extraction from Text Data
 3. Automatic Labeling
-4. https://github.com/marytts/marytts/wiki/UnitSelectionVoiceCreation[Unit Selection voice building]
+4. https://github.com/marytts/marytts-website/src/site/adoc/wiki/page/UnitSelectionVoiceCreation[Unit Selection voice building]
 5. https://github.com/marytts/marytts/wiki/HMMVoiceCreation[HMM-based voice building]
 6. https://github.com/marytts/marytts/wiki/Publishing-a-MARY-TTS-Voice[Publishing-a-MARY-TTS-Voice] 
 

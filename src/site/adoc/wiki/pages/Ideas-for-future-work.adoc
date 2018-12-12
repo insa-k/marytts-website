@@ -3,6 +3,8 @@
 :jbake-status: published
 :jbake-cached: true
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/Ideas-for-future-work.adoc[Edit page on GitHub!]
+
 This page can be used to collect some ideas for what could be done if there was time.
 
 == Voice building

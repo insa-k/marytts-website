@@ -3,6 +3,8 @@
 :jbake-status: published
 :jbake-cached: true
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/MaryInterface.adoc[Edit page on GitHub!]
+
 New in MARY TTS 5 is a unified API for accessing both local and remote synthesis:
 
 https://github.com/marytts/marytts/blob/master/marytts-common/src/main/java/marytts/MaryInterface.java[marytts.MaryInterface]

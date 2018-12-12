@@ -5,6 +5,8 @@
 
 = Adding support for a new language to MARY TTS
 
+https://www.github.com/marytts/marytts-website/edit/wiki/src/site/adoc/wiki/pages/new-language-support.adoc[Edit page on GitHub!]
+
 This page outlines the steps necessary to add support for a new language to MARY TTS 5.
 
 The following picture outlines the overall process.
